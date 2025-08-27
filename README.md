@@ -26,7 +26,7 @@ Predict if a student will pass (Final Marks ≥ 10) using a **Random Forest Clas
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/student-performance-predictor.git
+git clone https://github.com/Subhaga2000/student-performance-predictor.git
 cd student-performance-predictor
 
 
